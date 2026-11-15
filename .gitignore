@@ -3,3 +3,5 @@ __pycache__/
 kaggle.json
 access_token
 credentials.json
+.venv/
+tasks/
